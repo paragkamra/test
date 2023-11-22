@@ -1,0 +1,1013 @@
+ 
+(UTC+5:30)
+[10:21:57]: Connection to WSS lost (ec:1168 - Element not found) - reconnecting
+[10:21:57]: Tunnel#4(AXISB\TP00210910) Disconnected:  Nat IP: 10.222.191.127
+[10:21:58]: Routing has changed - waiting for route to ctc.threatpulse.com
+[10:21:58]: Could not connect to Web Security Service @ 0.0.0.0 via UDP
+[10:21:58]: No active network connection
+[10:22:07]: CTC Response: ACTIVE(GEOIP)  egress:171.51.220.50  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[10:22:08]: Attempting to connect to GINMU via UDP
+[10:22:09]: CA Tunnel#6(AXISB\TP00210910): connecting to 148.64.5.164
+[10:22:09]: CA Tunnel#6(AXISB\TP00210910): status:SUCCESS-authorized
+[10:22:09]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[10:22:11]: Known proxies: idccfm.axisb.com:1050(N);
+[10:22:12]: CTC Response: ACTIVE(GEOIP)  egress:171.51.220.50  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[10:22:15]: Tunnel#6(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-UDP), Nat IP: 10.222.45.225, RcvBuf: 2097152
+[10:22:15]: Connection to WSS successful
+[11:38:02]: Routing has changed - waiting for route to ctc.threatpulse.com
+[11:38:02]: Tunnel#6(AXISB\TP00210910) Disconnected:  Nat IP: 10.222.45.225
+[11:38:02]: WSS Agent has closed the connection.
+[11:39:53]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[11:40:00]: Known proxies: idccfm.axisb.com:1050(N);
+[11:40:02]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.85  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[11:40:03]: Attempting to connect to GINMU via UDP
+[11:40:04]: CA Tunnel#7(AXISB\TP00210910): connecting to 148.64.7.164
+[11:40:05]: CA Tunnel#7(AXISB\TP00210910): status:SUCCESS-authorized
+[11:40:05]: Tunnel#7(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.237.120.94, RcvBuf: 2097152
+[11:40:05]: Connection to WSS successful
+[13:09:07]: Routing has changed - waiting for route to ctc.threatpulse.com
+[13:09:07]: Tunnel#7(AXISB\TP00210910) Disconnected:  Nat IP: 10.237.120.94
+[13:09:07]: WSS Agent has closed the connection.
+[13:39:53]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.0.105
+[13:40:07]: Known proxies: idccfm.axisb.com:1050(N);
+[13:40:15]: CTC failed (ec:12002 - The operation timed out)
+[13:40:21]: CTC failed (ec:12029 - A connection with the server could not be established)
+[13:40:28]: Manual reconnect to WSS initiated
+[13:40:29]: Not currently connected to WSS. A new connection attempt will be made.
+[13:40:32]: Known proxies: idccfm.axisb.com:1050(N);
+[13:40:33]: CTC failed (ec:12029 - A connection with the server could not be established)
+[13:40:39]: CTC failed (ec:12029 - A connection with the server could not be established)
+[13:40:43]: Manual reconnect to WSS initiated
+[13:40:43]: Not currently connected to WSS. A new connection attempt will be made.
+[13:40:54]: CTC failed (ec:12029 - A connection with the server could not be established)
+[13:40:55]: Known proxies: idccfm.axisb.com:1050(N);
+[13:40:59]: CTC failed (ec:12029 - A connection with the server could not be established)
+[13:41:06]: CTC failed (ec:12029 - A connection with the server could not be established)
+[13:41:08]: CTC Response: ACTIVE(GEOIP)  egress:136.226.232.193  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[13:41:09]: Attempting to connect to GINMU via UDP
+[13:41:10]: CA Tunnel#8(AXISB\TP00210910): connecting to 148.64.7.164
+[13:41:15]: CA Tunnel#8(AXISB\TP00210910): status:SUCCESS-authorized
+[13:41:15]: Tunnel#8(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.236.112.153, RcvBuf: 2097152
+[13:41:15]: Connection to WSS successful
+[13:43:14]: Routing has changed - waiting for route to ctc.threatpulse.com
+[13:43:14]: Tunnel#8(AXISB\TP00210910) Disconnected:  Nat IP: 10.236.112.153
+[13:43:14]: WSS Agent has closed the connection.
+[13:43:18]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[13:43:29]: CTC failed (ec:12002 - The operation timed out)
+[13:43:34]: Known proxies: idccfm.axisb.com:1050(N);
+[13:43:39]: CTC failed (ec:12002 - The operation timed out)
+[13:43:46]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.85  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[13:43:47]: Attempting to connect to GINMU via UDP
+[13:43:48]: CA Tunnel#9(AXISB\TP00210910): connecting to 148.64.7.164
+[13:43:48]: CA Tunnel#9(AXISB\TP00210910): status:SUCCESS-authorized
+[13:43:48]: Tunnel#9(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.237.26.124, RcvBuf: 2097152
+[13:43:48]: Connection to WSS successful
+[13:48:43]: Whoami request failed (14)
+[13:58:50]: IP bypass count:58, Domain bypass count:146, App bypass count:10, Split DNS count:0, Tunnel IP count:0, Tunnel Domain Count: 0, NeverResolve Domain Count: 0, MarkIpAddresses count: 0
+[14:15:14]: Server has not sent a packet to Tunnel#9(AXISB\TP00210910) for 32 secs (last seen at 2023-11-15T14:14:42Z).  Closing dead tunnel.
+[14:15:14]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[14:15:15]: CTC Response: ACTIVE(GEOIP)  egress:136.226.242.120  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[14:15:15]: Tunnel#9(AXISB\TP00210910) Disconnected:  Nat IP: 10.237.26.124
+[14:15:16]: Attempting to connect to GINMU via UDP
+[14:15:21]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[14:15:22]: Attempting to connect to GINMU via TCP
+[14:15:23]: CA Tunnel#11(AXISB\TP00210910): connecting to 148.64.5.164
+[14:15:23]: CA Tunnel#11(AXISB\TP00210910): status:SUCCESS-authorized
+[14:15:23]: Tunnel#11(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-TCP), Nat IP: 10.241.130.37
+[14:15:23]: Connection to WSS successful
+[14:15:24]: Sending traffic as AXISB\TP00210910
+[14:15:34]: Whoami request failed (14)
+[14:15:45]: Sending traffic as AXISB\TP00210910
+[14:20:37]: Routing has changed - waiting for route to ctc.threatpulse.com
+[14:20:37]: Tunnel#11(AXISB\TP00210910) Disconnected:  Nat IP: 10.241.130.37
+[14:20:37]: WSS Agent has closed the connection.
+[14:20:47]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[14:20:50]: CTC Response: ACTIVE(GEOIP)  egress:136.226.242.120  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[14:20:51]: Known proxies: idccfm.axisb.com:1050(N);
+[14:20:51]: Attempting to connect to GINMU via UDP
+[14:20:56]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[14:20:57]: Attempting to connect to GINMU via TCP
+[14:20:58]: CA Tunnel#13(AXISB\TP00210910): connecting to 148.64.7.164
+[14:20:58]: CA Tunnel#13(AXISB\TP00210910): status:SUCCESS-authorized
+[14:20:58]: Tunnel#13(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.234.156.233
+[14:20:58]: Connection to WSS successful
+[14:21:43]: Whoami request failed (14)
+[14:35:37]: Routing has changed - waiting for route to ctc.threatpulse.com
+[14:35:37]: Tunnel#13(AXISB\TP00210910) Disconnected:  Nat IP: 10.234.156.233
+[14:35:37]: WSS Agent has closed the connection.
+[15:02:38]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[15:02:44]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.85  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[15:02:45]: Attempting to connect to GINMU via UDP
+[15:02:45]: CA Tunnel#14(AXISB\TP00210910): connecting to 148.64.7.164
+[15:02:45]: CA Tunnel#14(AXISB\TP00210910): status:SUCCESS-authorized
+[15:02:45]: Tunnel#14(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.237.134.236, RcvBuf: 2097152
+[15:02:45]: Connection to WSS successful
+[15:02:47]: Known proxies: idccfm.axisb.com:1050(N);
+[15:03:02]: Sending traffic as AXISB\TP00210910
+[15:05:21]: Tunnel#14(AXISB\TP00210910) Disconnected:  Nat IP: 10.237.134.236
+[15:05:22]: Shutting down WSS Agent
+[15:05:22]: WSS Agent has completed its shutdown routine
+[15:16:51]: ---- Starting Service (8.3.1.18989) ----
+[15:16:55]: Customer ID: 10558
+[15:16:55]: Tamper protection: enabled
+[15:16:55]: Windows 10 Enterprise x86_64 10.0.22621  machine name: LT005004-ANDHE  machineID: 03a5bf48-c173-4fdd-acd8-d62da51c501d
+[15:16:56]: Initial routing configuration - waiting for route to ctc.threatpulse.com
+[15:17:01]: Waiting for console user to log in
+[15:31:30]: IP bypass count:58, Domain bypass count:146, App bypass count:10, Split DNS count:0, Tunnel IP count:0, Tunnel Domain Count: 0, NeverResolve Domain Count: 0, MarkIpAddresses count: 0
+[15:48:24]: Shutting down WSS Agent
+[15:48:24]: WSS Agent has completed its shutdown routine
+[15:49:00]: ---- Starting Service (8.3.1.18989) ----
+[15:49:03]: Customer ID: 10558
+[15:49:03]: Tamper protection: enabled
+[15:49:03]: Windows 10 Enterprise x86_64 10.0.22621  machine name: LT005004-ANDHE  machineID: 03a5bf48-c173-4fdd-acd8-d62da51c501d
+[15:49:03]: Initial routing configuration - waiting for route to ctc.threatpulse.com
+[15:49:09]: Waiting for console user to log in
+[15:54:05]: Shutting down WSS Agent
+[15:54:05]: WSS Agent has completed its shutdown routine
+[15:54:43]: ---- Starting Service (8.3.1.18989) ----
+[15:54:46]: Customer ID: 10558
+[15:54:46]: Tamper protection: enabled
+[15:54:47]: Windows 10 Enterprise x86_64 10.0.22621  machine name: LT005004-ANDHE  machineID: 03a5bf48-c173-4fdd-acd8-d62da51c501d
+[15:54:47]: Initial routing configuration - waiting for route to ctc.threatpulse.com
+[15:54:53]: Waiting for console user to log in
+[15:56:04]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.0.105
+[15:56:07]: Known proxies: idccfm.axisb.com:1050(N);
+[15:56:30]: Routing has changed - waiting for route to ctc.threatpulse.com
+[15:56:43]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.0.105
+[15:56:45]: Known proxies: idccfm.axisb.com:1050(N);
+[16:02:46]: Routing has changed - waiting for route to ctc.threatpulse.com
+[16:10:01]: IP bypass count:58, Domain bypass count:146, App bypass count:10, Split DNS count:0, Tunnel IP count:0, Tunnel Domain Count: 0, NeverResolve Domain Count: 0, MarkIpAddresses count: 0
+[16:24:40]: User TP00210910 has logged in - continuing CTC
+[16:24:41]: No active network connection
+[16:25:12]: Attempting direct CTC request after 5 failures
+[16:28:04]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[16:28:07]: Known proxies: idccfm.axisb.com:1050(N);
+[16:28:11]: CTC Response: ACTIVE(GEOIP)  egress:136.226.244.101  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[16:28:12]: Attempting to connect to GINMU via UDP
+[16:28:12]: CA Tunnel#0(AXISB\TP00210910): connecting to 148.64.7.164
+[16:28:12]: CA Tunnel#0(AXISB\TP00210910): status:SUCCESS-authorized
+[16:28:12]: Tunnel#0(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.229.153.196, RcvBuf: 2097152
+[16:28:12]: Connection to WSS successful
+[16:28:13]: Console user TP00210910 logged in
+[16:28:18]: Sending traffic as AXISB\TP00210910
+[16:32:07]: No console user logged in.  A new connection attempt will be made after login.
+[16:32:07]: Tunnel#0(AXISB\TP00210910) Disconnected:  Nat IP: 10.229.153.196
+[16:32:07]: WSS Agent has closed the connection. A new connection attempt will be made.
+[16:32:07]: Waiting for console user to log in
+
+ 
+(UTC+5:30)
+[09:46:01]: Routing has changed - waiting for route to ctc.threatpulse.com
+[09:46:13]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[09:46:14]: Known proxies: idccfm.axisb.com:1050(N);
+[09:46:40]: User tp00210910 has logged in - continuing CTC
+[09:46:44]: CTC Response: ACTIVE(GEOIP)  egress:171.51.220.50  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[09:46:45]: Attempting to connect to GINMU via UDP
+[09:46:45]: CA Tunnel#1(AXISB\TP00210910): connecting to 148.64.7.164
+[09:46:45]: CA Tunnel#1(AXISB\TP00210910): status:SUCCESS-authorized
+[09:46:45]: Tunnel#1(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.238.10.107, RcvBuf: 2097152
+[09:46:46]: Connection to WSS successful
+[09:47:51]: Whoami request failed (11001)
+[10:36:02]: Routing has changed - waiting for route to ctc.threatpulse.com
+[10:36:02]: Tunnel#1(AXISB\TP00210910) Disconnected:  Nat IP: 10.238.10.107
+[10:36:02]: WSS Agent has closed the connection.
+[10:36:16]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[10:36:22]: Routing has changed - waiting for route to ctc.threatpulse.com
+[10:36:27]: No active network connection
+[10:36:28]: Known proxies: idccfm.axisb.com:1050(N);
+[10:36:40]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[10:36:51]: Known proxies: idccfm.axisb.com:1050(N);
+[10:36:56]: Routing has changed - waiting for route to ctc.threatpulse.com
+[10:37:22]: Attempting direct CTC request after 5 failures
+[10:39:00]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[10:39:12]: Known proxies: idccfm.axisb.com:1050(N);
+[10:39:15]: CTC failed (ec:12002 - The operation timed out)
+[10:39:26]: Routing has changed - waiting for route to ctc.threatpulse.com
+[10:39:27]: No active network connection
+[10:39:29]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[10:39:30]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[10:39:41]: Known proxies: idccfm.axisb.com:1050(N);
+[10:39:43]: CTC failed (ec:12002 - The operation timed out)
+[10:39:45]: Routing has changed - waiting for route to ctc.threatpulse.com
+[10:39:48]: No active network connection
+[10:39:54]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[10:40:06]: Known proxies: idccfm.axisb.com:1050(N);
+[10:40:11]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.85  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[10:40:12]: Attempting to connect to GINMU via UDP
+[10:40:17]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[10:40:18]: Attempting to connect to GINMU via TCP
+[10:40:28]: Connection failed for  for GINMU, will use next DP in connectList - error was (ec:26 - A timeout has occurred)
+[10:40:29]: Attempting to connect to GINDE via TCP
+[10:40:35]: Connection failed for  for GINDE, last DP in connectList - error was (ec:2 - End of file)
+[10:40:35]: Connection to WSS failed
+[10:41:35]: CTC failed (ec:12002 - The operation timed out)
+[10:41:47]: CTC failed (ec:12002 - The operation timed out)
+[10:41:51]: CTC failed (ec:12029 - A connection with the server could not be established)
+[10:41:57]: CTC failed (ec:12029 - A connection with the server could not be established)
+[10:42:09]: CTC failed (ec:12029 - A connection with the server could not be established)
+[10:42:17]: Attempting direct CTC request after 5 failures
+[10:42:22]: CTC failed (ec:12029 - A connection with the server could not be established)
+[10:42:28]: CTC failed (ec:12029 - A connection with the server could not be established)
+[10:42:28]: CTC: trying to use cached CL after 6 failures
+[10:42:28]: CTC: Using CL from file cache
+[10:42:29]: Attempting to connect to GINMU via UDP
+[10:42:29]: CA Tunnel#5(AXISB\TP00210910): connecting to 148.64.7.164
+[10:42:29]: CA Tunnel#5(AXISB\TP00210910): status:SUCCESS-authorized
+[10:42:29]: Tunnel#5(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.236.3.214, RcvBuf: 2097152
+[10:42:29]: Connection to WSS successful
+[11:28:27]: Waiting for console user to log in
+[12:29:51]: Server has not sent a packet to Tunnel#5(AXISB\TP00210910) for 32 secs (last seen at 2023-11-16T11:28:29Z).  Closing dead tunnel.
+[12:29:51]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[12:29:52]: Routing has changed - waiting for route to ctc.threatpulse.com
+[12:29:52]: Tunnel#5(AXISB\TP00210910) Disconnected:  Nat IP: 10.236.3.214
+[12:35:03]: User TP00210910 has logged in - continuing CTC
+[12:35:04]: No active network connection
+[12:35:34]: Attempting direct CTC request after 5 failures
+[12:42:35]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[12:42:35]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.2.169
+[12:42:37]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.164  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[12:42:38]: Attempting to connect to GINMU via UDP
+[12:42:43]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[12:42:44]: Attempting to connect to GINMU via TCP
+[12:42:44]: CA Tunnel#7(AXISB\TP00210910): connecting to 148.64.7.164
+[12:42:44]: CA Tunnel#7(AXISB\TP00210910): status:SUCCESS-authorized
+[12:42:44]: Tunnel#7(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.225.44.154
+[12:42:44]: Connection to WSS successful
+[12:42:45]: Known proxies: idccfm.axisb.com:1050(N);
+[12:43:11]: Connection to WSS lost (ec:121 - The semaphore timeout period has expired) - reconnecting
+[12:43:12]: Tunnel#7(AXISB\TP00210910) Disconnected:  Nat IP: 10.225.44.154
+[12:43:17]: CTC failed (ec:12002 - The operation timed out)
+[12:43:22]: CTC failed (ec:12029 - A connection with the server could not be established)
+[12:43:24]: Manual reconnect to WSS initiated
+[12:43:24]: Not currently connected to WSS. A new connection attempt will be made.
+[12:43:28]: Known proxies: idccfm.axisb.com:1050(N);
+[12:43:30]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[12:43:32]: Attempting to connect to GINMU via UDP
+[12:43:32]: CA Tunnel#8(AXISB\TP00210910): connecting to 148.64.5.164
+[12:43:32]: CA Tunnel#8(AXISB\TP00210910): status:SUCCESS-authorized
+[12:43:32]: Tunnel#8(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-UDP), Nat IP: 10.223.20.156, RcvBuf: 2097152
+[12:43:32]: Connection to WSS successful
+[12:58:47]: IP bypass count:58, Domain bypass count:146, App bypass count:10, Split DNS count:0, Tunnel IP count:0, Tunnel Domain Count: 0, NeverResolve Domain Count: 0, MarkIpAddresses count: 0
+[14:09:09]: Server has not sent a packet to Tunnel#8(AXISB\TP00210910) for 32 secs (last seen at 2023-11-16T14:08:37Z).  Closing dead tunnel.
+[14:09:09]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[14:09:09]: Tunnel#8(AXISB\TP00210910) Disconnected:  Nat IP: 10.223.20.156
+[14:09:13]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[14:09:15]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[14:09:25]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[14:09:27]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[14:09:33]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[14:09:39]: Attempting direct CTC request after 5 failures
+[14:09:39]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[14:09:49]: CTC failed (ec:12029 - A connection with the server could not be established)
+[14:09:49]: CTC: trying to use cached CL after 6 failures
+[14:09:49]: CTC: using the connect list cached in memory
+[14:09:50]: Attempting to connect to GINMU via UDP
+[14:09:50]: CA Tunnel#9(AXISB\TP00210910): connecting to 148.64.7.164
+[14:09:50]: CA Tunnel#9(AXISB\TP00210910): status:SUCCESS-authorized
+[14:09:50]: Tunnel#9(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.230.96.16, RcvBuf: 2097152
+[14:09:50]: Connection to WSS successful
+[15:45:18]: Server has not sent a packet to Tunnel#9(AXISB\TP00210910) for 32 secs (last seen at 2023-11-16T15:44:45Z).  Closing dead tunnel.
+[15:45:18]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[15:45:18]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[15:45:18]: Tunnel#9(AXISB\TP00210910) Disconnected:  Nat IP: 10.230.96.16
+[15:45:38]: CTC failed (ec:12002 - The operation timed out)
+[15:45:42]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[15:45:54]: CTC failed (ec:12002 - The operation timed out)
+[15:46:04]: CTC failed (ec:12029 - A connection with the server could not be established)
+[15:46:06]: Attempting direct CTC request after 5 failures
+[15:46:10]: CTC failed (ec:12029 - A connection with the server could not be established)
+[15:46:13]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[15:46:14]: Attempting to connect to GINMU via UDP
+[15:46:14]: CA Tunnel#10(AXISB\TP00210910): connecting to 148.64.5.164
+[15:46:14]: CA Tunnel#10(AXISB\TP00210910): status:SUCCESS-authorized
+[15:46:15]: Tunnel#10(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-UDP), Nat IP: 10.229.255.154, RcvBuf: 2097152
+[15:46:15]: Connection to WSS successful
+[15:46:53]: Whoami request failed (11001)
+[15:55:54]: No console user logged in.  A new connection attempt will be made after login.
+[15:55:54]: Tunnel#10(AXISB\TP00210910) Disconnected:  Nat IP: 10.229.255.154
+[15:55:54]: WSS Agent has closed the connection. A new connection attempt will be made.
+[15:55:54]: Waiting for console user to log in
+[15:55:59]: Shutting down WSS Agent
+[15:55:59]: WSS Agent has completed its shutdown routine
+[15:56:49]: ---- Starting Service (8.3.1.18989) ----
+[15:56:52]: Customer ID: 10558
+[15:56:52]: Tamper protection: enabled
+[15:56:52]: Windows 10 Enterprise x86_64 10.0.22621  machine name: LT005004-ANDHE  machineID: 03a5bf48-c173-4fdd-acd8-d62da51c501d
+[15:56:53]: Initial routing configuration - waiting for route to ctc.threatpulse.com
+[15:56:53]: Known proxies: idccfm.axisb.com:1050(N);
+[15:56:58]: Waiting for console user to log in
+[15:56:58]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.2.169
+[15:56:59]: Known proxies: idccfm.axisb.com:1050(N);
+[15:57:30]: Routing has changed - waiting for route to ctc.threatpulse.com
+[15:57:37]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.2.169
+[15:57:40]: Known proxies: idccfm.axisb.com:1050(N);
+[16:01:52]: User TP00210910 has logged in - continuing CTC
+[16:01:54]: CTC Response: ACTIVE(GEOIP)  egress:103.104.225.154  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[16:01:55]: Attempting to connect to GINMU via UDP
+[16:02:00]: CA Tunnel#0(AXISB\TP00210910): connecting to 148.64.7.164
+[16:02:00]: CA Tunnel#0(AXISB\TP00210910): status:SUCCESS-authorized
+[16:02:00]: Tunnel#0(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.228.112.109, RcvBuf: 2097152
+[16:02:00]: Connection to WSS successful
+[16:02:00]: IP bypass count:58, Domain bypass count:146, App bypass count:10, Split DNS count:0, Tunnel IP count:0, Tunnel Domain Count: 0, NeverResolve Domain Count: 0, MarkIpAddresses count: 0
+[16:02:01]: Console user TP00210910 logged in
+[16:02:14]: Sending traffic as AXISB\TP00210910
+[16:02:48]: Whoami request failed (11001)
+[16:03:03]: Whoami request failed (11001)
+[16:34:59]: Server has not sent a packet to Tunnel#0(AXISB\TP00210910) for 32 secs (last seen at 2023-11-16T16:34:27Z).  Closing dead tunnel.
+[16:34:59]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[16:35:00]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[16:35:00]: Tunnel#0(AXISB\TP00210910) Disconnected:  Nat IP: 10.228.112.109
+[16:35:10]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[16:35:22]: CTC failed (ec:12029 - A connection with the server could not be established)
+[16:35:24]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[16:35:25]: Attempting to connect to GINMU via UDP
+[16:35:25]: CA Tunnel#1(AXISB\TP00210910): connecting to 148.64.5.164
+[16:35:25]: CA Tunnel#1(AXISB\TP00210910): status:SUCCESS-authorized
+[16:35:25]: Tunnel#1(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-UDP), Nat IP: 10.221.228.123, RcvBuf: 2097152
+[16:35:25]: Connection to WSS successful
+[18:06:13]: Server has not sent a packet to Tunnel#1(AXISB\TP00210910) for 32 secs (last seen at 2023-11-16T18:05:40Z).  Closing dead tunnel.
+[18:06:13]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[18:06:14]: Tunnel#1(AXISB\TP00210910) Disconnected:  Nat IP: 10.221.228.123
+[18:06:17]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[18:06:19]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[18:06:32]: CTC failed (ec:12002 - The operation timed out)
+[18:06:44]: CTC failed (ec:12002 - The operation timed out)
+[18:06:49]: Manual reconnect to WSS initiated
+[18:06:49]: Not currently connected to WSS. A new connection attempt will be made.
+[18:06:49]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[18:06:58]: Known proxies: idccfm.axisb.com:1050(N);
+[18:07:00]: CTC failed (ec:12002 - The operation timed out)
+[18:07:07]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[18:07:17]: CTC failed (ec:12029 - A connection with the server could not be established)
+[18:07:25]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[18:07:26]: Attempting to connect to GINMU via UDP
+[18:07:26]: CA Tunnel#2(AXISB\TP00210910): connecting to 148.64.7.164
+[18:07:26]: CA Tunnel#2(AXISB\TP00210910): status:SUCCESS-authorized
+[18:07:26]: Tunnel#2(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.230.53.224, RcvBuf: 2097152
+[18:07:26]: Connection to WSS successful
+[18:31:39]: Server has not sent a packet to Tunnel#2(AXISB\TP00210910) for 32 secs (last seen at 2023-11-16T18:31:06Z).  Closing dead tunnel.
+[18:31:39]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[18:31:39]: Tunnel#2(AXISB\TP00210910) Disconnected:  Nat IP: 10.230.53.224
+[18:31:39]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.164  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[18:31:40]: Attempting to connect to GINMU via UDP
+[18:31:45]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[18:31:46]: Attempting to connect to GINMU via TCP
+[18:31:46]: CA Tunnel#4(AXISB\TP00210910): connecting to 148.64.7.164
+[18:31:46]: CA Tunnel#4(AXISB\TP00210910): status:SUCCESS-authorized
+[18:31:46]: Tunnel#4(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.218.33.99
+[18:31:46]: Connection to WSS successful
+[19:03:52]: Manual reconnect to WSS initiated
+[19:03:52]: Tunnel#4(AXISB\TP00210910) Disconnected:  Nat IP: 10.218.33.99
+[19:03:52]: WSS Agent has closed the connection. A new connection attempt will be made.
+[19:03:53]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.164  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[19:03:54]: Attempting to connect to GINMU via UDP
+[19:03:56]: Known proxies: idccfm.axisb.com:1050(N);
+[19:03:59]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[19:04:00]: Attempting to connect to GINMU via TCP
+[19:04:00]: CA Tunnel#6(AXISB\TP00210910): connecting to 148.64.7.164
+[19:04:00]: CA Tunnel#6(AXISB\TP00210910): status:SUCCESS-authorized
+[19:04:00]: Tunnel#6(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.226.247.3
+[19:04:00]: Connection to WSS successful
+[19:05:49]: Manual reconnect to WSS initiated
+[19:05:49]: Tunnel#6(AXISB\TP00210910) Disconnected:  Nat IP: 10.226.247.3
+[19:05:49]: WSS Agent has closed the connection. A new connection attempt will be made.
+[19:05:50]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.164  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[19:05:51]: Attempting to connect to GINMU via UDP
+[19:05:53]: Known proxies: idccfm.axisb.com:1050(N);
+[19:05:56]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[19:05:57]: Attempting to connect to GINMU via TCP
+[19:05:57]: CA Tunnel#8(AXISB\TP00210910): connecting to 148.64.5.164
+[19:05:57]: CA Tunnel#8(AXISB\TP00210910): status:SUCCESS-authorized
+[19:05:57]: Tunnel#8(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-TCP), Nat IP: 10.233.97.226
+[19:05:57]: Connection to WSS successful
+[20:27:51]: Server has not sent a packet to Tunnel#8(AXISB\TP00210910) for 32 secs (last seen at 2023-11-16T19:18:17Z).  Closing dead tunnel.
+[20:27:51]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[20:27:51]: Tunnel#8(AXISB\TP00210910) Disconnected:  Nat IP: 10.233.97.226
+[20:27:51]: No active network connection
+[20:27:52]: Routing has changed - waiting for route to ctc.threatpulse.com
+[20:28:03]: CTC Response: ACTIVE(GEOIP)  egress:103.172.156.234  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[20:28:04]: Attempting to connect to GINMU via UDP
+[20:28:04]: CA Tunnel#9(AXISB\TP00210910): connecting to 148.64.7.164
+[20:28:04]: CA Tunnel#9(AXISB\TP00210910): status:SUCCESS-authorized
+[20:28:04]: Tunnel#9(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.238.190.135, RcvBuf: 2097152
+[20:28:04]: Connection to WSS successful
+[20:28:07]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.0.105
+[20:28:07]: WSS Agent has closed the connection. A new connection attempt will be made.
+[20:28:07]: Tunnel#9(AXISB\TP00210910) Disconnected:  Nat IP: 10.238.190.135
+[20:28:07]: CTC Response: ACTIVE(GEOIP)  egress:103.172.156.234  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[20:28:08]: Known proxies: idccfm.axisb.com:1050(N);
+[20:28:08]: Attempting to connect to GINMU via UDP
+[20:28:08]: CA Tunnel#10(AXISB\TP00210910): connecting to 148.64.7.164
+[20:28:08]: CA Tunnel#10(AXISB\TP00210910): status:SUCCESS-authorized
+[20:28:08]: Tunnel#10(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.246.16.129, RcvBuf: 2097152
+[20:28:08]: Connection to WSS successful
+[20:28:25]: Waiting for console user to log in
+[20:28:25]: No console user logged in.  A new connection attempt will be made after login.
+[20:28:25]: Tunnel#10(AXISB\TP00210910) Disconnected:  Nat IP: 10.246.16.129
+[20:28:25]: WSS Agent has closed the connection. A new connection attempt will be made.
+[20:29:25]: User TP00210910 has logged in - continuing CTC
+[20:29:26]: CTC Response: ACTIVE(GEOIP)  egress:136.226.232.193  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[20:29:28]: Attempting to connect to GINMU via UDP
+[20:29:28]: CA Tunnel#11(AXISB\TP00210910): connecting to 148.64.7.164
+[20:29:28]: CA Tunnel#11(AXISB\TP00210910): status:SUCCESS-authorized
+[20:29:28]: Tunnel#11(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.247.37.188, RcvBuf: 2097152
+[20:29:28]: Connection to WSS successful
+
+ 
+(UTC+5:30)
+[09:32:15]: Connection to WSS lost (ec:1168 - Element not found) - reconnecting
+[09:32:16]: Tunnel#11(AXISB\TP00210910) Disconnected:  Nat IP: 10.247.37.188
+[09:32:17]: No active network connection
+[09:32:17]: Could not connect to Web Security Service @ 0.0.0.0 via UDP
+[09:32:18]: Routing has changed - waiting for route to ctc.threatpulse.com
+[09:32:28]: Waiting for console user to log in
+[09:32:40]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.2.169
+[09:32:40]: Known proxies: idccfm.axisb.com:1050(N);
+[09:33:18]: Routing has changed - waiting for route to ctc.threatpulse.com
+[09:33:29]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.2.169
+[09:33:32]: Known proxies: idccfm.axisb.com:1050(N);
+[09:34:23]: User TP00210910 has logged in - continuing CTC
+[09:34:24]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[09:34:25]: Attempting to connect to GINMU via UDP
+[09:34:25]: CA Tunnel#13(AXISB\TP00210910): connecting to 148.64.5.164
+[09:34:25]: CA Tunnel#13(AXISB\TP00210910): status:SUCCESS-authorized
+[09:34:25]: Tunnel#13(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-UDP), Nat IP: 10.220.155.174, RcvBuf: 2097152
+[09:34:25]: Connection to WSS successful
+[11:54:37]: Manual reconnect to WSS initiated
+[11:54:37]: Tunnel#13(AXISB\TP00210910) Disconnected:  Nat IP: 10.220.155.174
+[11:54:37]: WSS Agent has closed the connection. A new connection attempt will be made.
+[11:54:37]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.164  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[11:54:37]: Known proxies: idccfm.axisb.com:1050(N);
+[11:54:38]: Attempting to connect to GINMU via UDP
+[11:54:43]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[11:54:44]: Attempting to connect to GINMU via TCP
+[11:54:44]: CA Tunnel#15(AXISB\TP00210910): connecting to 148.64.7.164
+[11:54:44]: CA Tunnel#15(AXISB\TP00210910): status:SUCCESS-authorized
+[11:54:44]: Tunnel#15(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.242.8.199
+[11:54:44]: Connection to WSS successful
+[12:02:46]: Connection to WSS lost (ec:121 - The semaphore timeout period has expired) - reconnecting
+[12:02:46]: Tunnel#15(AXISB\TP00210910) Disconnected:  Nat IP: 10.242.8.199
+[12:02:54]: CTC failed (ec:12002 - The operation timed out)
+[12:03:06]: CTC failed (ec:12002 - The operation timed out)
+[12:03:18]: CTC failed (ec:12002 - The operation timed out)
+[12:03:26]: CTC failed (ec:12029 - A connection with the server could not be established)
+[12:03:34]: CTC failed (ec:12002 - The operation timed out)
+[12:03:34]: Attempting direct CTC request after 5 failures
+[12:03:38]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[12:03:44]: CTC failed (ec:12029 - A connection with the server could not be established)
+[12:03:44]: CTC: trying to use cached CL after 6 failures
+[12:03:44]: CTC: using the connect list cached in memory
+[12:03:45]: Attempting to connect to GINMU via UDP
+[12:03:48]: Manual reconnect to WSS initiated
+[12:03:48]: Not currently connected to WSS. A new connection attempt will be made.
+[12:03:48]: Known proxies: idccfm.axisb.com:1050(N);
+[12:03:50]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[12:03:52]: CTC failed (ec:12029 - A connection with the server could not be established)
+[12:04:00]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[12:04:01]: Manual reconnect to WSS initiated
+[12:04:01]: Not currently connected to WSS. A new connection attempt will be made.
+[12:04:01]: Known proxies: idccfm.axisb.com:1050(N);
+[12:04:07]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[12:04:08]: Attempting to connect to GINMU via UDP
+[12:04:08]: CA Tunnel#17(AXISB\TP00210910): connecting to 148.64.5.164
+[12:04:08]: CA Tunnel#17(AXISB\TP00210910): status:SUCCESS-authorized
+[12:04:08]: Tunnel#17(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-UDP), Nat IP: 10.229.76.111, RcvBuf: 2097152
+[12:04:08]: Connection to WSS successful
+[12:31:36]: Server has not sent a packet to Tunnel#17(AXISB\TP00210910) for 32 secs (last seen at 2023-11-17T12:31:03Z).  Closing dead tunnel.
+[12:31:36]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[12:31:37]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.164  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[12:31:37]: Tunnel#17(AXISB\TP00210910) Disconnected:  Nat IP: 10.229.76.111
+[12:31:38]: Attempting to connect to GINMU via UDP
+[12:31:43]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[12:31:44]: Attempting to connect to GINMU via TCP
+[12:31:44]: CA Tunnel#19(AXISB\TP00210910): connecting to 148.64.5.164
+[12:31:44]: CA Tunnel#19(AXISB\TP00210910): status:SUCCESS-authorized
+[12:31:44]: Tunnel#19(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-TCP), Nat IP: 10.241.109.96
+[12:31:44]: Connection to WSS successful
+[12:47:54]: Server has not sent a packet to Tunnel#19(AXISB\TP00210910) for 32 secs (last seen at 2023-11-17T12:47:22Z).  Closing dead tunnel.
+[12:47:54]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[12:47:55]: Tunnel#19(AXISB\TP00210910) Disconnected:  Nat IP: 10.241.109.96
+[12:47:55]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[12:47:56]: Attempting to connect to GINMU via UDP
+[12:48:01]: CA Tunnel#20(AXISB\TP00210910): connecting to 148.64.7.164
+[12:48:01]: CA Tunnel#20(AXISB\TP00210910): status:SUCCESS-authorized
+[12:48:01]: Tunnel#20(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.238.164.208, RcvBuf: 2097152
+[12:48:01]: Connection to WSS successful
+[12:57:50]: Server has not sent a packet to Tunnel#20(AXISB\TP00210910) for 32 secs (last seen at 2023-11-17T12:57:18Z).  Closing dead tunnel.
+[12:57:50]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[12:57:50]: Tunnel#20(AXISB\TP00210910) Disconnected:  Nat IP: 10.238.164.208
+[12:57:50]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.164  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[12:57:51]: Attempting to connect to GINMU via UDP
+[12:57:56]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[12:57:57]: Attempting to connect to GINMU via TCP
+[12:57:57]: CA Tunnel#22(AXISB\TP00210910): connecting to 148.64.5.164
+[12:57:57]: CA Tunnel#22(AXISB\TP00210910): status:SUCCESS-authorized
+[12:57:57]: Tunnel#22(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-TCP), Nat IP: 10.243.106.246
+[12:57:57]: Connection to WSS successful
+[13:12:34]: IP bypass count:58, Domain bypass count:146, App bypass count:10, Split DNS count:0, Tunnel IP count:0, Tunnel Domain Count: 0, NeverResolve Domain Count: 0, MarkIpAddresses count: 0
+[13:59:42]: Connection to WSS lost (ec:121 - The semaphore timeout period has expired) - reconnecting
+[13:59:42]: Tunnel#22(AXISB\TP00210910) Disconnected:  Nat IP: 10.243.106.246
+[13:59:46]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[13:59:48]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[14:00:02]: CTC failed (ec:12002 - The operation timed out)
+[14:00:06]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[14:00:18]: CTC failed (ec:12002 - The operation timed out)
+[14:00:24]: Attempting direct CTC request after 5 failures
+[14:00:30]: CTC failed (ec:12002 - The operation timed out)
+[14:00:41]: CTC failed (ec:12029 - A connection with the server could not be established)
+[14:00:41]: CTC: trying to use cached CL after 6 failures
+[14:00:41]: CTC: using the connect list cached in memory
+[14:00:42]: Attempting to connect to GINMU via UDP
+[14:00:42]: CA Tunnel#23(AXISB\TP00210910): connecting to 148.64.7.164
+[14:00:42]: CA Tunnel#23(AXISB\TP00210910): status:SUCCESS-authorized
+[14:00:42]: Tunnel#23(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.244.146.29, RcvBuf: 2097152
+[14:00:42]: Connection to WSS successful
+[14:06:00]: Manual reconnect to WSS initiated
+[14:06:00]: Tunnel#23(AXISB\TP00210910) Disconnected:  Nat IP: 10.244.146.29
+[14:06:00]: WSS Agent has closed the connection. A new connection attempt will be made.
+[14:06:00]: Known proxies: idccfm.axisb.com:1050(N);
+[14:06:00]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[14:06:01]: Attempting to connect to GINMU via UDP
+[14:06:01]: CA Tunnel#24(AXISB\TP00210910): connecting to 148.64.7.164
+[14:06:01]: CA Tunnel#24(AXISB\TP00210910): status:SUCCESS-authorized
+[14:06:01]: Tunnel#24(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.237.92.61, RcvBuf: 2097152
+[14:06:01]: Connection to WSS successful
+[15:09:45]: Server has not sent a packet to Tunnel#24(AXISB\TP00210910) for 32 secs (last seen at 2023-11-17T15:09:12Z).  Closing dead tunnel.
+[15:09:45]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[15:09:46]: Tunnel#24(AXISB\TP00210910) Disconnected:  Nat IP: 10.237.92.61
+[15:09:46]: CTC Response: ACTIVE(GEOIP)  egress:136.226.242.121  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[15:09:47]: Attempting to connect to GINMU via UDP
+[15:09:52]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[15:09:53]: Attempting to connect to GINMU via TCP
+[15:09:54]: CA Tunnel#26(AXISB\TP00210910): connecting to 148.64.7.164
+[15:09:54]: CA Tunnel#26(AXISB\TP00210910): status:SUCCESS-authorized
+[15:09:54]: Tunnel#26(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.217.46.149
+[15:09:54]: Connection to WSS successful
+[15:33:18]: Manual reconnect to WSS initiated
+[15:33:18]: Tunnel#26(AXISB\TP00210910) Disconnected:  Nat IP: 10.217.46.149
+[15:33:18]: WSS Agent has closed the connection. A new connection attempt will be made.
+[15:33:19]: CTC Response: ACTIVE(GEOIP)  egress:136.226.242.121  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[15:33:20]: Attempting to connect to GINMU via UDP
+[15:33:22]: Known proxies: idccfm.axisb.com:1050(N);
+[15:33:25]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[15:33:26]: Attempting to connect to GINMU via TCP
+[15:33:26]: CA Tunnel#28(AXISB\TP00210910): connecting to 148.64.7.164
+[15:33:26]: CA Tunnel#28(AXISB\TP00210910): status:SUCCESS-authorized
+[15:33:27]: Tunnel#28(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.240.206.93
+[15:33:27]: Connection to WSS successful
+[16:08:27]: Connection to WSS lost (ec:121 - The semaphore timeout period has expired) - reconnecting
+[16:08:28]: Tunnel#28(AXISB\TP00210910) Disconnected:  Nat IP: 10.240.206.93
+[16:08:28]: CTC Response: ACTIVE(GEOIP)  egress:103.104.225.154  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[16:08:29]: Attempting to connect to GINMU via UDP
+[16:08:29]: CA Tunnel#29(AXISB\TP00210910): connecting to 148.64.7.164
+[16:08:29]: CA Tunnel#29(AXISB\TP00210910): status:SUCCESS-authorized
+[16:08:29]: Tunnel#29(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.237.134.60, RcvBuf: 2097152
+[16:08:29]: Connection to WSS successful
+[16:24:52]: Manual reconnect to WSS initiated
+[16:24:52]: Tunnel#29(AXISB\TP00210910) Disconnected:  Nat IP: 10.237.134.60
+[16:24:52]: WSS Agent has closed the connection. A new connection attempt will be made.
+[16:24:52]: Known proxies: idccfm.axisb.com:1050(N);
+[16:24:53]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[16:24:54]: Attempting to connect to GINMU via UDP
+[16:24:54]: CA Tunnel#30(AXISB\TP00210910): connecting to 148.64.5.164
+[16:24:54]: CA Tunnel#30(AXISB\TP00210910): status:SUCCESS-authorized
+[16:24:54]: Tunnel#30(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-UDP), Nat IP: 10.229.228.140, RcvBuf: 2097152
+[16:24:54]: Connection to WSS successful
+[16:25:16]: Whoami request failed (14)
+[16:25:26]: Sending traffic as AXISB\TP00210910
+[17:53:41]: Server has not sent a packet to Tunnel#30(AXISB\TP00210910) for 32 secs (last seen at 2023-11-17T17:53:08Z).  Closing dead tunnel.
+[17:53:41]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[17:53:42]: Tunnel#30(AXISB\TP00210910) Disconnected:  Nat IP: 10.229.228.140
+[17:53:46]: CTC failed (ec:12029 - A connection with the server could not be established)
+[17:53:52]: CTC failed (ec:12029 - A connection with the server could not be established)
+[17:53:58]: CTC failed (ec:12029 - A connection with the server could not be established)
+[17:54:04]: CTC failed (ec:12029 - A connection with the server could not be established)
+[17:54:10]: CTC failed (ec:12029 - A connection with the server could not be established)
+[17:54:12]: Attempting direct CTC request after 5 failures
+[17:54:16]: CTC failed (ec:12029 - A connection with the server could not be established)
+[17:54:22]: CTC failed (ec:12029 - A connection with the server could not be established)
+[17:54:22]: CTC: trying to use cached CL after 6 failures
+[17:54:22]: CTC: using the connect list cached in memory
+[17:54:23]: Attempting to connect to GINMU via UDP
+[17:54:23]: CA Tunnel#31(AXISB\TP00210910): connecting to 148.64.7.164
+[17:54:23]: CA Tunnel#31(AXISB\TP00210910): status:SUCCESS-authorized
+[17:54:23]: Tunnel#31(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.246.193.127, RcvBuf: 2097152
+[17:54:23]: Connection to WSS successful
+[18:16:02]: Manual reconnect to WSS initiated
+[18:16:02]: Tunnel#31(AXISB\TP00210910) Disconnected:  Nat IP: 10.246.193.127
+[18:16:02]: WSS Agent has closed the connection. A new connection attempt will be made.
+[18:16:02]: Known proxies: idccfm.axisb.com:1050(N);
+[18:16:03]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[18:16:04]: Attempting to connect to GINMU via UDP
+[18:16:04]: CA Tunnel#32(AXISB\TP00210910): connecting to 148.64.7.164
+[18:16:04]: CA Tunnel#32(AXISB\TP00210910): status:SUCCESS-authorized
+[18:16:04]: Tunnel#32(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.236.197.199, RcvBuf: 2097152
+[18:16:04]: Connection to WSS successful
+[18:39:18]: Server has not sent a packet to Tunnel#32(AXISB\TP00210910) for 32 secs (last seen at 2023-11-17T18:38:45Z).  Closing dead tunnel.
+[18:39:18]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[18:39:18]: Tunnel#32(AXISB\TP00210910) Disconnected:  Nat IP: 10.236.197.199
+[18:39:19]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.164  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[18:39:20]: Attempting to connect to GINMU via UDP
+[18:39:29]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[18:39:30]: Attempting to connect to GINMU via TCP
+[18:39:30]: CA Tunnel#35(AXISB\TP00210910): connecting to 148.64.5.164
+[18:39:30]: CA Tunnel#35(AXISB\TP00210910): status:SUCCESS-authorized
+[18:39:30]: Tunnel#35(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-TCP), Nat IP: 10.240.247.59
+[18:39:30]: Connection to WSS successful
+[18:47:31]: Manual reconnect to WSS initiated
+[18:47:31]: Tunnel#35(AXISB\TP00210910) Disconnected:  Nat IP: 10.240.247.59
+[18:47:31]: WSS Agent has closed the connection. A new connection attempt will be made.
+[18:47:32]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.164  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[18:47:33]: Attempting to connect to GINMU via UDP
+[18:47:35]: Known proxies: idccfm.axisb.com:1050(N);
+[18:47:38]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[18:47:39]: Attempting to connect to GINMU via TCP
+[18:47:39]: CA Tunnel#37(AXISB\TP00210910): connecting to 148.64.7.164
+[18:47:39]: CA Tunnel#37(AXISB\TP00210910): status:SUCCESS-authorized
+[18:47:39]: Tunnel#37(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.241.128.193
+[18:47:39]: Connection to WSS successful
+
+ 
+(UTC+5:30)
+[09:14:52]: Routing has changed - waiting for route to ctc.threatpulse.com
+[09:14:52]: Tunnel#37(AXISB\TP00210910) Disconnected:  Nat IP: 10.241.128.193
+[09:14:53]: WSS Agent has closed the connection.
+[09:18:36]: Waiting for console user to log in
+[09:20:34]: Shutting down WSS Agent
+[09:20:34]: WSS Agent has completed its shutdown routine
+[09:23:49]: ---- Starting Service (8.3.1.18989) ----
+[09:23:50]: Warning: Customer ID restored from backup
+[09:23:50]: Customer ID: 10558
+[09:23:50]: Tamper protection: enabled
+[09:23:50]: Windows 10 Enterprise x86_64 10.0.22621  machine name: LT005004-ANDHE  machineID: 664110a2-7c19-4e7f-9354-94bb679ac9b3
+[09:23:51]: Initial routing configuration - waiting for route to ctc.threatpulse.com
+[09:23:51]: Known proxies: idccfm.axisb.com:1050(N);
+[09:23:57]: Waiting for console user to log in
+[09:24:32]: ---- Starting Service (8.3.1.18989) ----
+[09:24:35]: Warning: Customer ID restored from backup
+[09:24:36]: Customer ID: 10558
+[09:24:36]: Tamper protection: enabled
+[09:24:36]: Windows 10 Enterprise x86_64 10.0.22621  machine name: LT005004-ANDHE  machineID: c8a97edd-26bd-4d49-9699-d54481c8588f
+[09:24:36]: Initial routing configuration - waiting for route to ctc.threatpulse.com
+[09:24:37]: Known proxies: idccfm.axisb.com:1050(N);
+[09:24:42]: Waiting for console user to log in
+[09:27:55]: Shutting down WSS Agent
+[09:27:55]: WSS Agent has completed its shutdown routine
+[09:28:33]: ---- Starting Service (8.3.1.18989) ----
+[09:28:36]: Customer ID: 10558
+[09:28:36]: Tamper protection: enabled
+[09:28:36]: Windows 10 Enterprise x86_64 10.0.22621  machine name: LT005004-ANDHE  machineID: c8a97edd-26bd-4d49-9699-d54481c8588f
+[09:28:37]: Initial routing configuration - waiting for route to ctc.threatpulse.com
+[09:28:37]: Known proxies: idccfm.axisb.com:1050(N);
+[09:28:42]: Waiting for console user to log in
+[09:29:07]: User TP00210910 has logged in - continuing CTC
+[09:29:09]: No active network connection
+[09:29:39]: Attempting direct CTC request after 5 failures
+[09:30:24]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[09:30:29]: Known proxies: idccfm.axisb.com:1050(N);
+[09:30:33]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.115  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[09:30:34]: Attempting to connect to GINMU via UDP
+[09:30:39]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[09:30:40]: Attempting to connect to GINMU via TCP
+[09:30:41]: CA Tunnel#1(AXISB\TP00210910): connecting to 148.64.5.164
+[09:30:41]: CA Tunnel#1(AXISB\TP00210910): status:SUCCESS-authorized
+[09:30:41]: Tunnel#1(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-TCP), Nat IP: 10.243.0.85
+[09:30:41]: Connection to WSS successful
+[09:30:41]: IP bypass count:58, Domain bypass count:146, App bypass count:10, Split DNS count:0, Tunnel IP count:0, Tunnel Domain Count: 0, NeverResolve Domain Count: 0, MarkIpAddresses count: 0
+[09:30:41]: Console user TP00210910 logged in
+[09:30:46]: Connection to WSS lost (ec:1236 - The network connection was aborted by the local system) - reconnecting
+[09:30:46]: No active network connection
+[09:30:47]: Tunnel#1(AXISB\TP00210910) Disconnected:  Nat IP: 10.243.0.85
+[09:30:47]: Routing has changed - waiting for route to ctc.threatpulse.com
+[09:30:59]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[09:31:07]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.163  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[09:31:08]: Attempting to connect to GINMU via UDP
+[09:31:09]: CA Tunnel#2(AXISB\TP00210910): connecting to 148.64.5.164
+[09:31:09]: CA Tunnel#2(AXISB\TP00210910): status:SUCCESS-authorized
+[09:31:09]: Tunnel#2(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-UDP), Nat IP: 10.239.13.208, RcvBuf: 2097152
+[09:31:09]: Connection to WSS successful
+[09:31:11]: Known proxies: idccfm.axisb.com:1050(N);
+[09:31:31]: Whoami request failed (26)
+[09:36:38]: Sending traffic as AXISB\TP00210910
+[09:37:10]: Whoami request failed (14)
+[09:55:46]: Routing has changed - waiting for route to ctc.threatpulse.com
+[09:55:46]: Tunnel#2(AXISB\TP00210910) Disconnected:  Nat IP: 10.239.13.208
+[09:55:46]: WSS Agent has closed the connection.
+[09:57:30]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[09:57:33]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.163  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[09:57:34]: Attempting to connect to GINMU via UDP
+[09:57:35]: CA Tunnel#3(AXISB\TP00210910): connecting to 148.64.7.164
+[09:57:35]: CA Tunnel#3(AXISB\TP00210910): status:SUCCESS-authorized
+[09:57:35]: Tunnel#3(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.247.52.193, RcvBuf: 2097152
+[09:57:35]: Connection to WSS successful
+[09:57:38]: Known proxies: idccfm.axisb.com:1050(N);
+[09:57:57]: Whoami request failed (26)
+[10:02:40]: Sending traffic as AXISB\TP00210910
+[15:09:02]: Server has not sent a packet to Tunnel#3(AXISB\TP00210910) for 32 secs (last seen at 2023-11-18T15:08:30Z).  Closing dead tunnel.
+[15:09:02]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[15:09:03]: Tunnel#3(AXISB\TP00210910) Disconnected:  Nat IP: 10.247.52.193
+[15:09:03]: CTC Response: ACTIVE(GEOIP)  egress:136.226.232.202  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[15:09:04]: Attempting to connect to GINMU via UDP
+[15:09:05]: CA Tunnel#4(AXISB\TP00210910): connecting to 148.64.5.164
+[15:09:05]: CA Tunnel#4(AXISB\TP00210910): status:SUCCESS-authorized
+[15:09:05]: Tunnel#4(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-UDP), Nat IP: 10.238.54.170, RcvBuf: 2097152
+[15:09:05]: Connection to WSS successful
+[15:35:12]: Manual reconnect to WSS initiated
+[15:35:12]: Tunnel#4(AXISB\TP00210910) Disconnected:  Nat IP: 10.238.54.170
+[15:35:12]: WSS Agent has closed the connection. A new connection attempt will be made.
+[15:35:13]: Known proxies: idccfm.axisb.com:1050(N);
+[15:35:13]: CTC Response: ACTIVE(GEOIP)  egress:136.226.232.202  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[15:35:14]: Attempting to connect to GINMU via UDP
+[15:35:14]: CA Tunnel#5(AXISB\TP00210910): connecting to 148.64.7.164
+[15:35:14]: CA Tunnel#5(AXISB\TP00210910): status:SUCCESS-authorized
+[15:35:14]: Tunnel#5(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.237.45.113, RcvBuf: 2097152
+[15:35:14]: Connection to WSS successful
+[15:45:56]: Manual reconnect to WSS initiated
+[15:45:56]: Tunnel#5(AXISB\TP00210910) Disconnected:  Nat IP: 10.237.45.113
+[15:45:56]: WSS Agent has closed the connection. A new connection attempt will be made.
+[15:45:57]: CTC Response: ACTIVE(GEOIP)  egress:106.194.246.48  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[15:45:57]: Known proxies: idccfm.axisb.com:1050(N);
+[15:45:58]: Attempting to connect to GINMU via UDP
+[15:45:58]: CA Tunnel#6(AXISB\TP00210910): connecting to 148.64.5.164
+[15:45:58]: CA Tunnel#6(AXISB\TP00210910): status:SUCCESS-authorized
+[15:45:58]: Tunnel#6(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-UDP), Nat IP: 10.237.94.132, RcvBuf: 2097152
+[15:45:58]: Connection to WSS successful
+[15:46:25]: Whoami request failed (26)
+[15:48:20]: Waiting for console user to log in
+[15:50:33]: Tunnel#6(AXISB\TP00210910) Disconnected:  Nat IP: 10.237.94.132
+[15:50:33]: Shutting down WSS Agent
+[15:50:33]: WSS Agent has completed its shutdown routine
+[15:51:12]: ---- Starting Service (8.3.1.18989) ----
+[15:51:15]: Customer ID: 10558
+[15:51:15]: Tamper protection: enabled
+[15:51:15]: Windows 10 Enterprise x86_64 10.0.22621  machine name: LT005004-ANDHE  machineID: c8a97edd-26bd-4d49-9699-d54481c8588f
+[15:51:16]: Initial routing configuration - waiting for route to ctc.threatpulse.com
+[15:51:16]: Known proxies: idccfm.axisb.com:1050(N);
+[15:51:22]: Waiting for console user to log in
+[15:51:23]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[15:51:24]: Known proxies: idccfm.axisb.com:1050(N);
+[15:51:54]: Routing has changed - waiting for route to ctc.threatpulse.com
+[15:52:01]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.235.215
+[15:52:06]: Known proxies: idccfm.axisb.com:1050(N);
+[15:54:33]: User TP00210910 has logged in - continuing CTC
+[15:54:35]: CTC Response: ACTIVE(GEOIP)  egress:106.194.246.48  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[15:54:36]: Attempting to connect to GINMU via UDP
+[15:54:36]: CA Tunnel#0(AXISB\TP00210910): connecting to 148.64.7.164
+[15:54:36]: CA Tunnel#0(AXISB\TP00210910): status:SUCCESS-authorized
+[15:54:37]: Tunnel#0(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.237.28.195, RcvBuf: 2097152
+[15:54:37]: Connection to WSS successful
+[15:54:37]: IP bypass count:58, Domain bypass count:146, App bypass count:10, Split DNS count:0, Tunnel IP count:0, Tunnel Domain Count: 0, NeverResolve Domain Count: 0, MarkIpAddresses count: 0
+[15:54:38]: Console user TP00210910 logged in
+[15:54:39]: Sending traffic as AXISB\TP00210910
+[16:25:34]: Server has not sent a packet to Tunnel#0(AXISB\TP00210910) for 32 secs (last seen at 2023-11-18T16:25:01Z).  Closing dead tunnel.
+[16:25:34]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[16:25:34]: Tunnel#0(AXISB\TP00210910) Disconnected:  Nat IP: 10.237.28.195
+[16:25:34]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.189  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[16:25:35]: Attempting to connect to GINMU via UDP
+[16:25:40]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[16:25:41]: Attempting to connect to GINMU via TCP
+[16:25:51]: Connection failed for  for GINMU, will use next DP in connectList - error was (ec:26 - A timeout has occurred)
+[16:25:52]: Attempting to connect to GINDE via TCP
+[16:26:02]: Connection failed for  for GINDE, last DP in connectList - error was (ec:26 - A timeout has occurred)
+[16:26:02]: Connection to WSS failed
+[16:27:02]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.189  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[16:27:03]: Attempting to connect to GINMU via UDP
+[16:27:03]: CA Tunnel#4(AXISB\TP00210910): connecting to 148.64.5.164
+[16:27:03]: CA Tunnel#4(AXISB\TP00210910): status:SUCCESS-authorized
+[16:27:03]: Tunnel#4(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-UDP), Nat IP: 10.220.151.198, RcvBuf: 2097152
+[16:27:03]: Connection to WSS successful
+[16:27:26]: Whoami request failed (14)
+[16:27:36]: Sending traffic as AXISB\TP00210910
+[17:22:42]: Routing has changed - waiting for route to ctc.threatpulse.com
+[17:22:42]: Tunnel#4(AXISB\TP00210910) Disconnected:  Nat IP: 10.220.151.198
+[17:22:42]: WSS Agent has closed the connection.
+[17:22:48]: Waiting for console user to log in
+
+ 
+(UTC+5:30)
+[09:47:07]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.2.169
+[09:47:07]: Known proxies: idccfm.axisb.com:1050(N);
+[09:47:47]: User tp00210910 has logged in - continuing CTC
+[09:47:50]: CTC Response: ACTIVE(GEOIP)  egress:103.104.225.154  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[09:47:51]: Attempting to connect to GINMU via UDP
+[09:47:57]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[09:47:58]: Attempting to connect to GINMU via TCP
+[09:47:58]: CA Tunnel#6(AXISB\TP00210910): connecting to 148.64.7.164
+[09:47:58]: CA Tunnel#6(AXISB\TP00210910): status:SUCCESS-authorized
+[09:47:58]: Tunnel#6(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.227.37.216
+[09:47:58]: Connection to WSS successful
+[09:48:21]: Connection to WSS lost (ec:121 - The semaphore timeout period has expired) - reconnecting
+[09:48:22]: Tunnel#6(AXISB\TP00210910) Disconnected:  Nat IP: 10.227.37.216
+[09:48:22]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[09:48:23]: Attempting to connect to GINMU via UDP
+[09:48:23]: CA Tunnel#7(AXISB\TP00210910): connecting to 148.64.7.164
+[09:48:24]: CA Tunnel#7(AXISB\TP00210910): status:SUCCESS-authorized
+[09:48:24]: Tunnel#7(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.222.218.149, RcvBuf: 2097152
+[09:48:24]: Connection to WSS successful
+[09:52:08]: Server has not sent a packet to Tunnel#7(AXISB\TP00210910) for 32 secs (last seen at 2023-11-20T09:51:36Z).  Closing dead tunnel.
+[09:52:08]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[09:52:08]: Tunnel#7(AXISB\TP00210910) Disconnected:  Nat IP: 10.222.218.149
+[09:52:08]: CTC Response: ACTIVE(GEOIP)  egress:136.226.242.121  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[09:52:09]: Attempting to connect to GINMU via UDP
+[09:52:14]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[09:52:16]: Attempting to connect to GINMU via TCP
+[09:52:16]: CA Tunnel#9(AXISB\TP00210910): connecting to 148.64.7.164
+[09:52:16]: CA Tunnel#9(AXISB\TP00210910): status:SUCCESS-authorized
+[09:52:16]: Tunnel#9(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.219.14.82
+[09:52:17]: Connection to WSS successful
+[09:56:18]: Connection to WSS lost (ec:121 - The semaphore timeout period has expired) - reconnecting
+[09:56:18]: Tunnel#9(AXISB\TP00210910) Disconnected:  Nat IP: 10.219.14.82
+[09:56:18]: CA Tunnel#10(AXISB\TP00210910): connecting to 148.64.7.164
+[09:56:18]: CA Tunnel#10(AXISB\TP00210910): status:SUCCESS-authorized
+[09:56:18]: Tunnel#10(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.217.208.207
+[09:56:18]: CTC Response: ACTIVE(GEOIP)  egress:103.104.225.154  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[09:56:19]: Attempting to connect to GINMU via UDP
+[09:56:19]: CA Tunnel#11(AXISB\TP00210910): connecting to 148.64.7.164
+[09:56:19]: CA Tunnel#11(AXISB\TP00210910): status:SUCCESS-authorized
+[09:56:19]: Tunnel#11(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.237.74.8, RcvBuf: 2097152
+[09:56:19]: Connection to WSS successful
+[09:56:22]: Tunnel#10(AXISB\TP00210910) Disconnected:  Nat IP: 10.217.208.207
+[09:57:07]: Whoami request failed (26)
+[10:42:00]: Server has not sent a packet to Tunnel#11(AXISB\TP00210910) for 32 secs (last seen at 2023-11-20T10:41:28Z).  Closing dead tunnel.
+[10:42:00]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[10:42:00]: Tunnel#11(AXISB\TP00210910) Disconnected:  Nat IP: 10.237.74.8
+[10:42:04]: CTC failed (ec:12029 - A connection with the server could not be established)
+[10:42:10]: CTC failed (ec:12002 - The operation timed out)
+[10:42:12]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[10:42:13]: Attempting to connect to GINMU via UDP
+[10:42:13]: CA Tunnel#12(AXISB\TP00210910): connecting to 148.64.7.164
+[10:42:13]: CA Tunnel#12(AXISB\TP00210910): status:SUCCESS-authorized
+[10:42:13]: Tunnel#12(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.222.35.173, RcvBuf: 2097152
+[10:42:14]: Connection to WSS successful
+[12:37:18]: Server has not sent a packet to Tunnel#12(AXISB\TP00210910) for 32 secs (last seen at 2023-11-20T12:36:45Z).  Closing dead tunnel.
+[12:37:18]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[12:37:19]: Tunnel#12(AXISB\TP00210910) Disconnected:  Nat IP: 10.222.35.173
+[12:37:21]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[12:37:24]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[12:37:34]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[12:37:36]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[12:37:45]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[12:37:46]: Attempting to connect to GINMU via UDP
+[12:37:46]: CA Tunnel#13(AXISB\TP00210910): connecting to 148.64.7.164
+[12:37:46]: CA Tunnel#13(AXISB\TP00210910): status:SUCCESS-authorized
+[12:37:46]: Tunnel#13(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.223.33.186, RcvBuf: 2097152
+[12:37:46]: Connection to WSS successful
+[13:47:30]: Waiting for console user to log in
+[13:47:40]: Tunnel#13(AXISB\TP00210910) Disconnected:  Nat IP: 10.223.33.186
+[13:47:40]: Shutting down WSS Agent
+[13:47:40]: WSS Agent has completed its shutdown routine
+[13:48:17]: ---- Starting Service (8.3.1.18989) ----
+[13:48:22]: Customer ID: 10558
+[13:48:22]: Tamper protection: enabled
+[13:48:22]: Windows 10 Enterprise x86_64 10.0.22621  machine name: LT005004-ANDHE  machineID: c8a97edd-26bd-4d49-9699-d54481c8588f
+[13:48:22]: Initial routing configuration - waiting for route to ctc.threatpulse.com
+[13:48:23]: Known proxies: idccfm.axisb.com:1050(N);
+[13:48:28]: Waiting for console user to log in
+[13:48:44]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.2.169
+[13:48:44]: Known proxies: idccfm.axisb.com:1050(N);
+[13:49:00]: Routing has changed - waiting for route to ctc.threatpulse.com
+[13:49:07]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.2.169
+[13:49:18]: Known proxies: idccfm.axisb.com:1050(N);
+[13:51:22]: User TP00210910 has logged in - continuing CTC
+[13:51:24]: CTC Response: ACTIVE(GEOIP)  egress:103.104.225.154  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[13:51:25]: Attempting to connect to GINMU via UDP
+[13:51:30]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[13:51:31]: Attempting to connect to GINMU via TCP
+[13:51:32]: CA Tunnel#1(AXISB\TP00210910): connecting to 148.64.7.164
+[13:51:32]: CA Tunnel#1(AXISB\TP00210910): status:SUCCESS-authorized
+[13:51:32]: Tunnel#1(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.243.48.177
+[13:51:32]: Connection to WSS successful
+[13:51:32]: IP bypass count:58, Domain bypass count:146, App bypass count:10, Split DNS count:0, Tunnel IP count:0, Tunnel Domain Count: 0, NeverResolve Domain Count: 0, MarkIpAddresses count: 0
+[13:51:32]: Console user TP00210910 logged in
+[13:51:53]: Whoami request failed (26)
+[13:52:03]: Connection to WSS lost (ec:121 - The semaphore timeout period has expired) - reconnecting
+[13:52:04]: Tunnel#1(AXISB\TP00210910) Disconnected:  Nat IP: 10.243.48.177
+[13:52:11]: CTC failed (ec:12002 - The operation timed out)
+[13:52:23]: CTC failed (ec:12002 - The operation timed out)
+[13:52:28]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[13:52:29]: Attempting to connect to GINMU via UDP
+[13:52:29]: CA Tunnel#2(AXISB\TP00210910): connecting to 148.64.7.164
+[13:52:29]: CA Tunnel#2(AXISB\TP00210910): status:SUCCESS-authorized
+[13:52:29]: Tunnel#2(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.244.233.238, RcvBuf: 2097152
+[13:52:29]: Connection to WSS successful
+[13:52:45]: Sending traffic as AXISB\TP00210910
+[14:47:44]: Server has not sent a packet to Tunnel#2(AXISB\TP00210910) for 32 secs (last seen at 2023-11-20T14:47:11Z).  Closing dead tunnel.
+[14:47:44]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[14:47:44]: Tunnel#2(AXISB\TP00210910) Disconnected:  Nat IP: 10.244.233.238
+[14:47:44]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.164  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[14:47:45]: Attempting to connect to GINMU via UDP
+[14:47:50]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[14:47:51]: Attempting to connect to GINMU via TCP
+[14:47:52]: CA Tunnel#4(AXISB\TP00210910): connecting to 148.64.7.164
+[14:47:52]: CA Tunnel#4(AXISB\TP00210910): status:SUCCESS-authorized
+[14:47:52]: Tunnel#4(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.241.48.7
+[14:47:52]: Connection to WSS successful
+[15:49:55]: Manual reconnect to WSS initiated
+[15:49:55]: Tunnel#4(AXISB\TP00210910) Disconnected:  Nat IP: 10.241.48.7
+[15:49:55]: WSS Agent has closed the connection. A new connection attempt will be made.
+[15:49:55]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.164  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[15:49:56]: Attempting to connect to GINMU via UDP
+[15:49:59]: Known proxies: idccfm.axisb.com:1050(N);
+[15:50:01]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[15:50:02]: Attempting to connect to GINMU via TCP
+[15:50:02]: CA Tunnel#6(AXISB\TP00210910): connecting to 148.64.7.164
+[15:50:02]: CA Tunnel#6(AXISB\TP00210910): status:SUCCESS-authorized
+[15:50:02]: Tunnel#6(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.224.108.186
+[15:50:03]: Connection to WSS successful
+[15:50:03]: IP bypass count:58, Domain bypass count:146, App bypass count:10, Split DNS count:0, Tunnel IP count:0, Tunnel Domain Count: 0, NeverResolve Domain Count: 0, MarkIpAddresses count: 0
+[16:05:36]: Connection to WSS lost (ec:121 - The semaphore timeout period has expired) - reconnecting
+[16:05:36]: Tunnel#6(AXISB\TP00210910) Disconnected:  Nat IP: 10.224.108.186
+[16:05:40]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[16:05:42]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[16:05:52]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[16:05:54]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[16:06:00]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[16:06:06]: Attempting direct CTC request after 5 failures
+[16:06:12]: CTC failed (ec:12029 - A connection with the server could not be established)
+[16:06:22]: CTC failed (ec:12030 - The connection with the server was terminated abnormally)
+[16:06:22]: CTC: trying to use cached CL after 6 failures
+[16:06:22]: CTC: using the connect list cached in memory
+[16:06:23]: Attempting to connect to GINMU via UDP
+[16:06:23]: CA Tunnel#7(AXISB\TP00210910): connecting to 148.64.7.164
+[16:06:23]: CA Tunnel#7(AXISB\TP00210910): status:SUCCESS-authorized
+[16:06:23]: Tunnel#7(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.245.193.231, RcvBuf: 2097152
+[16:06:23]: Connection to WSS successful
+[17:04:02]: Server has not sent a packet to Tunnel#7(AXISB\TP00210910) for 32 secs (last seen at 2023-11-20T17:03:29Z).  Closing dead tunnel.
+[17:04:02]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[17:04:03]: Tunnel#7(AXISB\TP00210910) Disconnected:  Nat IP: 10.245.193.231
+[17:04:03]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.164  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[17:04:04]: Attempting to connect to GINMU via UDP
+[17:04:09]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[17:04:10]: Attempting to connect to GINMU via TCP
+[17:04:10]: CA Tunnel#9(AXISB\TP00210910): connecting to 148.64.5.164
+[17:04:10]: CA Tunnel#9(AXISB\TP00210910): status:SUCCESS-authorized
+[17:04:10]: Tunnel#9(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-TCP), Nat IP: 10.232.85.224
+[17:04:10]: Connection to WSS successful
+[17:04:11]: IP bypass count:58, Domain bypass count:146, App bypass count:10, Split DNS count:0, Tunnel IP count:0, Tunnel Domain Count: 0, NeverResolve Domain Count: 0, MarkIpAddresses count: 0
+[17:04:36]: Whoami request failed (26)
+[17:06:33]: Connection to WSS lost (ec:121 - The semaphore timeout period has expired) - reconnecting
+[17:06:33]: Tunnel#9(AXISB\TP00210910) Disconnected:  Nat IP: 10.232.85.224
+[17:06:33]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.164  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[17:06:34]: Attempting to connect to GINMU via UDP
+[17:06:39]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[17:06:40]: Attempting to connect to GINMU via TCP
+[17:06:42]: CA Tunnel#11(AXISB\TP00210910): connecting to 148.64.7.164
+[17:06:42]: CA Tunnel#11(AXISB\TP00210910): status:SUCCESS-authorized
+[17:06:42]: Tunnel#11(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.218.215.247
+[17:06:42]: Connection to WSS successful
+[17:22:22]: IP bypass count:58, Domain bypass count:146, App bypass count:10, Split DNS count:0, Tunnel IP count:0, Tunnel Domain Count: 0, NeverResolve Domain Count: 0, MarkIpAddresses count: 0
+
+ 
+(UTC+5:30)
+[09:34:24]: Routing has changed - waiting for route to ctc.threatpulse.com
+[09:34:24]: Tunnel#11(AXISB\TP00210910) Disconnected:  Nat IP: 10.218.215.247
+[09:34:24]: WSS Agent has closed the connection.
+[09:34:26]: Routing has changed - traffic to ctc.threatpulse.com now routed through interface with address: 192.168.2.169
+[09:34:27]: Known proxies: idccfm.axisb.com:1050(N);
+[09:34:29]: CTC Response: ACTIVE(GEOIP)  egress:103.104.225.154  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[09:34:30]: Attempting to connect to GINMU via UDP
+[09:34:30]: CA Tunnel#12(AXISB\TP00210910): connecting to 148.64.5.164
+[09:34:30]: CA Tunnel#12(AXISB\TP00210910): status:SUCCESS-authorized
+[09:34:30]: Tunnel#12(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-UDP), Nat IP: 10.236.175.57, RcvBuf: 2097152
+[09:34:30]: Connection to WSS successful
+[09:34:31]: IP bypass count:58, Domain bypass count:146, App bypass count:10, Split DNS count:0, Tunnel IP count:0, Tunnel Domain Count: 0, NeverResolve Domain Count: 0, MarkIpAddresses count: 0
+[09:40:48]: Whoami request failed (14)
+[09:47:57]: Server has not sent a packet to Tunnel#12(AXISB\TP00210910) for 32 secs (last seen at 2023-11-21T09:47:24Z).  Closing dead tunnel.
+[09:47:57]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[09:47:57]: Tunnel#12(AXISB\TP00210910) Disconnected:  Nat IP: 10.236.175.57
+[09:47:57]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.164  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[09:47:58]: Attempting to connect to GINMU via UDP
+[09:48:03]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[09:48:04]: Attempting to connect to GINMU via TCP
+[09:48:06]: CA Tunnel#14(AXISB\TP00210910): connecting to 148.64.7.164
+[09:48:06]: CA Tunnel#14(AXISB\TP00210910): status:SUCCESS-authorized
+[09:48:07]: Tunnel#14(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-TCP), Nat IP: 10.218.167.97
+[09:48:07]: Connection to WSS successful
+[09:48:09]: Sending traffic as AXISB\TP00210910
+[10:18:45]: Connection to WSS lost (ec:121 - The semaphore timeout period has expired) - reconnecting
+[10:18:45]: Tunnel#14(AXISB\TP00210910) Disconnected:  Nat IP: 10.218.167.97
+[10:18:49]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[10:18:51]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[10:19:03]: CTC failed (ec:12002 - The operation timed out)
+[10:19:13]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[10:19:15]: CTC failed (ec:12007 - The server name or address could not be resolved)
+[10:19:27]: Attempting direct CTC request after 5 failures
+[10:19:27]: CTC Response: ACTIVE(GEOIP)  egress:165.225.120.104  GINMU-148.64.7.164  GINDE-168.149.184.164  
+[10:19:28]: Attempting to connect to GINMU via UDP
+[10:19:28]: CA Tunnel#15(AXISB\TP00210910): connecting to 148.64.7.164
+[10:19:28]: CA Tunnel#15(AXISB\TP00210910): status:SUCCESS-authorized
+[10:19:28]: Tunnel#15(AXISB\TP00210910) connected to concentrator: 148.64.7.164(GINMU-UDP), Nat IP: 10.245.126.192, RcvBuf: 2097152
+[10:19:28]: Connection to WSS successful
+[11:03:52]: Server has not sent a packet to Tunnel#15(AXISB\TP00210910) for 32 secs (last seen at 2023-11-21T11:03:19Z).  Closing dead tunnel.
+[11:03:52]: Connection to WSS lost (ec:26 - A timeout has occurred) - reconnecting
+[11:03:52]: Tunnel#15(AXISB\TP00210910) Disconnected:  Nat IP: 10.245.126.192
+[11:03:53]: CTC Response: ACTIVE(GEOIP)  egress:136.226.254.164  GINMU-148.64.5.164  GINDE-168.149.184.164  
+[11:03:54]: Attempting to connect to GINMU via UDP
+[11:03:59]: UDP Connection failed (ec:26 - A timeout has occurred), will attempt TCP on the same DP
+[11:04:00]: Attempting to connect to GINMU via TCP
+[11:04:00]: CA Tunnel#17(AXISB\TP00210910): connecting to 148.64.5.164
+[11:04:00]: CA Tunnel#17(AXISB\TP00210910): status:SUCCESS-authorized
+[11:04:00]: Tunnel#17(AXISB\TP00210910) connected to concentrator: 148.64.5.164(GINMU-TCP), Nat IP: 10.233.166.229
+[11:04:00]: Connection to WSS successful
+
+  
